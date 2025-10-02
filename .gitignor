@@ -1,0 +1,22 @@
+# 가상환경 (Virtual Environments)
+venv/
+env/
+.venv/
+.env/
+
+# 파이썬 캐시 파일 (Python cache files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE 및 에디터 설정 파일 (IDE and editor configuration files)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 빌드 및 배포 관련 파일 (Build and distribution files)
+build/
+dist/
+*.egg-info/
